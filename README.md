@@ -46,8 +46,6 @@ public class Alist {
         System.out.println("Sublist from name list");
         System.out.println(subList);
 
-
-        // toArray fonksiyonu parametresiz çağırırsanız Object tipinde bir dizi döner.
         Object[] objectArray = nameList.toArray();
 
         // toArray fonksiyonuna hangi tipte bir dizi oluşturmak istiyorsak,
