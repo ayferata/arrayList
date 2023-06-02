@@ -48,9 +48,6 @@ public class Alist {
 
         Object[] objectArray = nameList.toArray();
 
-        // toArray fonksiyonuna hangi tipte bir dizi oluşturmak istiyorsak,
-        // o tipten bir nesne üretip parametre olarak göndeririz.
-        // String tipinden bir dizi almak istediğimiz için "new String[0]" şeklinde bir nesne üretip, "toArray" fonksiyonuna gönderdik.
         String[] stringArray = nameList.toArray(new String[0]);
 
 
