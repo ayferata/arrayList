@@ -52,4 +52,5 @@ public class Alist {
 
         nameList.clear();
     }
+    
 }
