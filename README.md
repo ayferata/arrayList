@@ -3,7 +3,7 @@ import java.util.*;
 
 public class Alist {
     public static void main(String[] args) {
-        //String tipinde elemanları tutan ArrayList initialize
+       
         List<String> nameList = new ArrayList<String>();
     
         nameList.add("Gamze");
