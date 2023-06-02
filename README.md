@@ -11,7 +11,7 @@ public class Alist {
         nameList.add("Mustafa");
         nameList.add("Umut");
         nameList.add("Umut");
-        //ArrayList null değerli eleman tutabilir.
+   
         nameList.add(null);
 
         System.out.println(nameList);
