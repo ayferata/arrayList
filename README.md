@@ -25,9 +25,6 @@ public class Alist {
 
         System.out.println("Index of 'Umut': " + nameList.lastIndexOf("Umut"));
 
-        //add() fonksiyonuna ilk verilen argüman indis, sonraki elemandır.
-        //Verilen indise gidip verilen elemanı koyar.
-        //Verilen indiste daha önceden tanımlanmış değer varsa, fonksiyondaki elemanı o indise koyar ve geri kalan elemanları kaydırır.
         nameList.add(3, "Zeynep");
 
         //set() fonksiyonuna ilk verilen argüman indis, sonraki elemandır.
