@@ -29,9 +29,6 @@ public class Alist {
         
         nameList.set(1, "Naz");
 
-
-        // contains ile liste içinde aradığımız eleman var mı yok mu belirtir.
-        // varsa true, yoksa false döner
         System.out.println(nameList.contains("Elif"));
         System.out.println(nameList.contains("Mustafa"));
 
