@@ -26,10 +26,7 @@ public class Alist {
         System.out.println("Index of 'Umut': " + nameList.lastIndexOf("Umut"));
 
         nameList.add(3, "Zeynep");
-
-        //set() fonksiyonuna ilk verilen argüman indis, sonraki elemandır.
-        //Verilen indise gidip verilen elemanı koyar.
-        //Verilen indis, liste boyutunun dışında olmamalıdır.
+        
         nameList.set(1, "Naz");
 
 
