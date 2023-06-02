@@ -41,10 +41,6 @@ public class Alist {
 
         nameList.addAll(newNameList);
 
-
-        // listeden alt bir liste oluşturmak için "sublist" fonksiyonunu kullanırız.
-        //Başlangıç ve bitiş indisleri verilir.
-        //Başlangıç indisindeki eleman dahil, bitiş indisindeki eleman hariç yeni bir liste oluşturulur.
         List<String> subList = nameList.subList(4, 6);
 
         System.out.println("Sublist from name list");
