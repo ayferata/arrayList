@@ -21,8 +21,6 @@ public class Alist {
         System.out.println("Element of 1 index: " + nameList.get(1));
         System.out.println("Element of 2 index: " + nameList.get(2));
 
-
-        // Liste başından taramaya başlarayarak ilk geçen noktadaki Umut bilgisinin indis değerini verir.
         System.out.println("Index of 'Umut': " + nameList.indexOf("Umut"));
 
         // Liste sonundan taramaya başlayarak son geçen noktadaki Umut bilgisinin indis değerini verir.
