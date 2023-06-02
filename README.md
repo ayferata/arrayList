@@ -5,8 +5,7 @@ public class Alist {
     public static void main(String[] args) {
         //String tipinde elemanları tutan ArrayList initialize
         List<String> nameList = new ArrayList<String>();
-
-        //İndis 0'dan başlayarak elemanları sırayla yerleştirir.
+    
         nameList.add("Gamze");
         nameList.add("Elif");
         nameList.add("Mustafa");
