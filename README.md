@@ -35,12 +35,10 @@ public class Alist {
         String firstElement = nameList.remove(0);
         System.out.println(firstElement + " is removed from list!");
 
-
         List<String> newNameList = new ArrayList<String>();
         newNameList.add("Batuhan");
         newNameList.add("Kemal");
 
-        // bir listeyi tümüyle bir diğer listeye eklemek için "addAll" fonksiyonu kullanılır.
         nameList.addAll(newNameList);
 
 
