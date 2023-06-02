@@ -18,7 +18,6 @@ public class Alist {
 
         System.out.println("Size of list: " + nameList.size());
 
-       
         System.out.println("Element of 1 index: " + nameList.get(1));
         System.out.println("Element of 2 index: " + nameList.get(2));
 
