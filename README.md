@@ -16,10 +16,9 @@ public class Alist {
 
         System.out.println(nameList);
 
-        //size() metodu, Collection Interface'inden gelen bir mirastır.
         System.out.println("Size of list: " + nameList.size());
 
-        // get ile listeden eleman okuması yapılır. Okunan eleman listeden çıkartılmaz.
+       
         System.out.println("Element of 1 index: " + nameList.get(1));
         System.out.println("Element of 2 index: " + nameList.get(2));
 
