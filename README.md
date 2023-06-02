@@ -32,8 +32,6 @@ public class Alist {
         System.out.println(nameList.contains("Elif"));
         System.out.println(nameList.contains("Mustafa"));
 
-        // remove fonksiyonu ile listeden belirttiğimiz indisteki değer silinir.
-        // silinen değer fonksiyondan bize geri döndürülür.
         String firstElement = nameList.remove(0);
         System.out.println(firstElement + " is removed from list!");
 
