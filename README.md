@@ -50,8 +50,6 @@ public class Alist {
 
         String[] stringArray = nameList.toArray(new String[0]);
 
-
-        // listedeki tüm elemanları temizler. yani tümünü listeden siler.
         nameList.clear();
     }
 }
