@@ -23,7 +23,6 @@ public class Alist {
 
         System.out.println("Index of 'Umut': " + nameList.indexOf("Umut"));
 
-        // Liste sonundan taramaya başlayarak son geçen noktadaki Umut bilgisinin indis değerini verir.
         System.out.println("Index of 'Umut': " + nameList.lastIndexOf("Umut"));
 
         //add() fonksiyonuna ilk verilen argüman indis, sonraki elemandır.
