@@ -14,7 +14,6 @@ public class Alist {
         //ArrayList null değerli eleman tutabilir.
         nameList.add(null);
 
-        //Tüm listeyi ekrana yazdırır.
         System.out.println(nameList);
 
         //size() metodu, Collection Interface'inden gelen bir mirastır.
